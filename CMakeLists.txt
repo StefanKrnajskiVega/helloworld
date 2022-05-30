@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12)
 
-set(PROJECT_NAME dev)
+set(PROJECT_NAME HelloWorld)
 
 # Set the project name
 project(${PROJECT_NAME})
